@@ -1,0 +1,3 @@
+[submodule "firefly_mcmc/firefly-monte-carlo"]
+	path = firefly_mcmc/firefly-monte-carlo
+	url = https://github.com/HIPS/firefly-monte-carlo
